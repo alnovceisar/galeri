@@ -12,10 +12,10 @@ body {
 }
 .jumbotron {
   padding-top: 2rem;
-  background-color: #dbf6e9;
+  background-color: #87dfd6;
 }
 #project {
-  background-color: #dbf6e9;
+  background-color: #87dfd6;
 }
 #contact p {
   color: rgb(73, 71, 71);
@@ -98,4 +98,11 @@ body {
 }
 .btns:focus {
   box-shadow: none;
+}
+
+footer {
+  background-color: #2f9296;
+  text-align: center;
+  color: #fff;
+  padding: 10px;
 }
